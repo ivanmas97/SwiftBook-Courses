@@ -39,6 +39,13 @@ class ViewController: UIViewController {
 //        let session = URLSession(configuration: sessionConfiguration)
 //
 //        let request = URLRequest(url: fullURL!)
+//        let dataTask = session.dataTask(with: fullURL!) { data, response, error in
+//            <#code#>
+//        }
+//
+//        dataTask.resume()
+        
+        
     }
 
     func updateUIWith(currentWeather: CurrentWeather) {
