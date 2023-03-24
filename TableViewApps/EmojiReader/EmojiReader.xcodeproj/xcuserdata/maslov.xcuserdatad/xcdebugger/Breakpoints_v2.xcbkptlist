@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4048A0BF-1C53-469A-8325-18EDBB1D2A76"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiReader/NewEmojiTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "NewEmojiTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - 7d4295f77a4598b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.getter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - e0e1b15e1c2f84a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.setter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - 492ec29357f0bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - 8c011f455e9182a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.saveButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - fb67f5258c45a0ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(style: __C.UITableViewStyle) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - 88c9eaa897a5f434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "1FC78130-C607-4225-BB9A-37AAEAD2F466 - ffac3cc3060e2c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EmojiReader.NewEmojiTableViewController&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiReader/NewEmojiTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NewEmojiTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - a05ff4ccc3a80ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.EmojiTF.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - 7afc2ba470ea7aeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.EmojiTF.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - c448c5555ffa5fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.EmojiTF.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - 6bc8d6460227aa24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.EmojiTF.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - fb67f5258c45a046"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(style: __C.UITableViewStyle) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - 88c9eaa897a5f4b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EmojiReader.NewEmojiTableViewController"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "5E2A3633-797E-4A24-9EAB-DD7B783BA4F7 - ffac3cc3060e2cb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiReader.NewEmojiTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EmojiReader.NewEmojiTableViewController&gt;"
+                  moduleName = "EmojiReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maslov/Documents/Swift/SwiftBook-Courses/TableViewApps/EmojiReader/EmojiReader/NewEmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
